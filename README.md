@@ -32,9 +32,9 @@ Use John the Ripper to audit and recover the password of an intentionally passwo
 - Reviewing the recovered result in Johnny.
 
 ### Evidence
-![Johnny result](./screenshots/01-johnny-cracked-password.png)
+![Johnny result](./01-Password-Cracking-JTR/screenshots/01-johnny-cracked-password.png)
 
-[John the Ripper reference screenshot](./screenshots/02-john-the-ripper-reference.png) · [Additional reference view](./screenshots/03-john-the-ripper-reference-detail.png)
+[John the Ripper reference screenshot](./01-Password-Cracking-JTR/screenshots/02-john-the-ripper-reference.png) · [Additional reference view](./01-Password-Cracking-JTR/screenshots/03-john-the-ripper-reference-detail.png)
 
 ## 2. Password Cracking with NetworkWalks Tools
 
@@ -55,17 +55,17 @@ Practise the PDF hash-extraction and dictionary-attack workflow using the tools 
 - How to verify a result against the original lab file.
 
 ### Evidence
-![NetworkWalks flag capture](./screenshots/01-networkwalks-flag-captured.png)
+![NetworkWalks flag capture](./02-Password-Cracking-NetworkWalks/screenshots/01-networkwalks-flag-captured.png)
 
-![JTR persistence flag](./screenshots/02-jtr-persistence-flag.png)
+![JTR persistence flag](./02-Password-Cracking-NetworkWalks/screenshots/02-jtr-persistence-flag.png)
 
-![Additional lab result](./screenshots/03-networkwalks-flag-evidence.png)
+![Additional lab result](./02-Password-Cracking-NetworkWalks/screenshots/03-networkwalks-flag-evidence.png)
 
-![Online PDF hash extraction](./screenshots/04-online-pdf-hash-extraction.png)
+![Online PDF hash extraction](./02-Password-Cracking-NetworkWalks/screenshots/04-online-pdf-hash-extraction.png)
 
-![NetworkWalks hash calculator](./screenshots/05-networkwalks-hash-calculator.png)
+![NetworkWalks hash calculator](./02-Password-Cracking-NetworkWalks/screenshots/05-networkwalks-hash-calculator.png)
 
-![Dictionary attack success](./screenshots/06-dictionary-attack-success.png)
+![Dictionary attack success](./02-Password-Cracking-NetworkWalks/screenshots/06-dictionary-attack-success.png)
 
 ## 3. HexStrike MCP Setup
 
@@ -86,7 +86,7 @@ Set up and run the HexStrike AI MCP server in the Kali Linux lab environment so 
 - Understanding the role of an MCP server as an interface between an AI client and external tools.
 
 ### Evidence
-![HexStrike MCP server running](./screenshots/01-hexstrike-mcp-server-running.png)
+![HexStrike MCP server running](./03-HexStrike-MCP-Setup/screenshots/01-hexstrike-mcp-server-running.png)
 
 ## 4. AI-Assisted Password Cracking with Claude and HexStrike MCP
 
@@ -106,7 +106,7 @@ Use Claude Desktop as the AI interface to request authorized JTR operations thro
 - The distinction between a file checksum and a password hash suitable for password auditing.
 
 ### Evidence
-![Claude Desktop and HexStrike JTR workflow](./screenshots/01-claude-hexstrike-jtr-workflow.png)
+![Claude Desktop and HexStrike JTR workflow](./04-AI-Assisted-Password-Cracking/screenshots/01-claude-hexstrike-jtr-workflow.png)
 
 ## Key concepts learned
 
