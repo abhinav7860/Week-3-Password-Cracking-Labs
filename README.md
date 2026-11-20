@@ -98,9 +98,6 @@ Practise the PDF hash-extraction and dictionary-attack workflow using the tools 
 
 ![Dictionary attack success](./02-Password-Cracking-NetworkWalks/screenshots/02-dictionary-attack-success.png)
 
-**Additional lab flag**
-
-![Additional lab flag](./02-Password-Cracking-NetworkWalks/screenshots/03_flag.png)
 
 ---
 
