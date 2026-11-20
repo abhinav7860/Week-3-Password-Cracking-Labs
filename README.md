@@ -47,6 +47,10 @@ Use John the Ripper to audit and recover the password of an intentionally passwo
 
 ![JTR persistence flag](./01-Password-Cracking-JTR/screenshots/02-jtr-persistence-flag.png)
 
+**NetworkWalks – flag captured**
+
+![NetworkWalks flag captured](./01-Password-Cracking-JTR/screenshots/05-networkwalks-flag-captured.png)
+
 **John the Ripper reference**
 
 ![John the Ripper reference](./01-Password-Cracking-JTR/screenshots/03-john-the-ripper-reference-detail.png)
@@ -78,9 +82,7 @@ Practise the PDF hash-extraction and dictionary-attack workflow using the tools 
 
 ### Evidence
 
-**NetworkWalks – flag captured**
 
-![NetworkWalks flag captured](./01-Password-Cracking-JTR/screenshots/05-networkwalks-flag-captured.png)
 
 **Additional lab flag evidence**
 
